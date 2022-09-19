@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.66c8f002.css",
-    "main.js": "/static/js/main.3e09511a.js",
-    "static/media/img-1 (1).jpg": "/static/media/img-1 (1).53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/index.html",
-    "main.66c8f002.css.map": "/static/css/main.66c8f002.css.map",
-    "main.3e09511a.js.map": "/static/js/main.3e09511a.js.map"
+    "main.css": "https://srinanoo.github.io/merlin-problem/static/css/main.dee4738a.css",
+    "main.js": "https://srinanoo.github.io/merlin-problem/static/js/main.9c480819.js",
+    "static/media/img-1 (1).jpg": "https://srinanoo.github.io/merlin-problem/static/media/img-1 (1).53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "https://srinanoo.github.io/merlin-problem/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "https://srinanoo.github.io/merlin-problem/index.html",
+    "main.dee4738a.css.map": "https://srinanoo.github.io/merlin-problem/static/css/main.dee4738a.css.map",
+    "main.9c480819.js.map": "https://srinanoo.github.io/merlin-problem/static/js/main.9c480819.js.map"
   },
   "entrypoints": [
-    "static/css/main.66c8f002.css",
-    "static/js/main.3e09511a.js"
+    "static/css/main.dee4738a.css",
+    "static/js/main.9c480819.js"
   ]
 }
